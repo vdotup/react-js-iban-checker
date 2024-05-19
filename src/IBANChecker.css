@@ -1,0 +1,38 @@
+.iban-card {
+    max-width: 500px;
+    width: 100%;
+    border-radius: 15px;
+  }
+  
+  .iban-card h2 {
+    color: #2c3e50;
+  }
+  
+  .iban-card .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .iban-card .form-control {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .iban-card .form-label {
+    font-weight: bold;
+    color: #2c3e50;
+    text-align: left;
+    display: block;
+  }
+  
+  .text-left-label {
+    text-align: left;
+  }
+  
+  .ml-3 {
+    margin-left: 1rem;
+  }
+
+  .mt-3 {
+    margin-top: 1rem;
+  }
